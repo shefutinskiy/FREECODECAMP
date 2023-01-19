@@ -1,0 +1,21 @@
+const myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  },{
+  "artist": "Король и Шут",
+  "title": "Как в старой сказке",
+  "release_year": 2001,
+  "formats": [
+    "Проклятый старый дом",
+    "Лесник"
+  ]
+  }
+];
